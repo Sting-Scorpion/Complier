@@ -1,0 +1,22 @@
+void linear_form(AST_PTR exp, int stated)
+{
+	/* TODO */
+	if (next_state == 0) addstate(exp);
+	int over = 1;
+	addstate(exp);
+	LF_PTR lf = derivative(exp);
+	while (lf != NULL) {
+		addstate(lf->exp);
+		for (int i = 1; i < next_state - 1; i++) {
+			if (lf->exp == StateTable[i]) {
+				next_state--;
+				over = 0;
+				break;
+			}
+		}
+		if (over) {
+			linear_form(lf->exp, 1);
+		}
+		lf = lf->next;
+	}
+}

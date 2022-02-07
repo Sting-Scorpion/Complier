@@ -1,0 +1,742 @@
+<?xml version="1.0" standalone="no"?>
+
+
+<FAMILY_TREE>
+  
+  
+  <PERSON  ID="p23" SEX="M">
+    
+    <REFERENCE  SOURCE="s44"/>
+    
+    <FATHER  PERSON="p37"/>
+    
+    <MOTHER  PERSON="p1099"/>
+    
+    <NAME>
+      
+      <GIVEN>
+        Judson McDaniel
+      </GIVEN>
+      
+      <SURNAME>
+        Anderson
+      </SURNAME>
+      
+    </NAME>
+    
+    <BIRTH>
+      
+      <PLACE>
+        Montgomery County, KY, 1893
+      </PLACE>
+      
+      <DATE>
+        19 Jul 1894
+      </DATE>
+      
+    </BIRTH>
+    
+    <DEATH>
+      
+      <PLACE>
+        Mt. Sterling, KY
+      </PLACE>
+      
+      <DATE>
+        27 Apr 1941
+      </DATE>
+      
+    </DEATH>
+    
+    <NOTE>
+      <body>
+        
+        <p>
+          Agriculture College in Iowa
+        </p>
+        
+        <p>
+          Farmer
+        </p>
+        
+        <p>
+          32nd degree Mason
+        </p>
+        
+        <p>
+          
+          He shot himself in the pond in the back of Sideview 
+          when he found that he was terminally ill. It has also 
+          been claimed that he was having money and wife 
+          troubles. (He and Zelda did not get along and he was 
+          embarrassed to have  married her.) It has further been 
+          claimed that this was part of the Anderson family 
+          curse.
+        </p>
+        
+      </body>
+    </NOTE>
+    
+  </PERSON>
+  
+  
+  <PERSON  ID="p36" SEX="F">
+    
+    <REFERENCE  SOURCE="s43"/>
+    
+    <FATHER  PERSON="p37"/>
+    
+    <MOTHER  PERSON="p1099"/>
+    
+    <NAME>
+      
+      <GIVEN>
+        Mary English
+      </GIVEN>
+      
+      <SURNAME>
+        Anderson
+      </SURNAME>
+      
+    </NAME>
+    
+    <BIRTH>
+      
+      <PLACE>
+        August 4, 1902?, Sideview, KY
+      </PLACE>
+      
+      <DATE>
+        8 Apr 1902
+      </DATE>
+      
+    </BIRTH>
+    
+    <DEATH>
+      
+      <PLACE>
+        Mt. Sterling, KY
+      </PLACE>
+      
+      <DATE>
+        19 Dec 1972
+      </DATE>
+      
+    </DEATH>
+    
+  </PERSON>
+  
+  
+  <PERSON  ID="p37" SEX="M">
+    
+    <REFERENCE  SOURCE="s29"/>
+    
+    <REFERENCE  SOURCE="s43"/>
+    
+    <FATHER  PERSON="p1035"/>
+    
+    <MOTHER  PERSON="p1098"/>
+    
+    <NAME>
+      
+      <GIVEN>
+        Samuel English
+      </GIVEN>
+      
+      <SURNAME>
+        Anderson
+      </SURNAME>
+      
+    </NAME>
+    
+    <BIRTH>
+      
+      <PLACE>
+        Sideview
+      </PLACE>
+      
+      <DATE>
+        25 Aug 1871
+      </DATE>
+      
+    </BIRTH>
+    
+    <DEATH>
+      
+      <PLACE>
+        Mt. Sterling, KY
+      </PLACE>
+      
+      <DATE>
+        10 Nov 1919
+      </DATE>
+      
+    </DEATH>
+    
+    <NOTE>
+      
+      <body>
+        
+        <p>
+          
+          Samuel English Anderson was known in Montgomery 
+          County for his red hair and the temper that went 
+          with it. He did once 
+          <strong>
+            kill a man
+          </strong>
+          , 
+          but the court found that it was in self-defense. 
+        </p>
+        
+        
+        <p>
+          
+          He was shot by a farm worker whom he had 
+          fired the day before for smoking in a tobacco barn.
+          Hamp says this may have been self-defense, because he 
+          threatened to kill the workers for smoking in the 
+          barn. He also says old-time rumors say they mashed 
+          his head with  a fence post. Beth heard he was cut to 
+          death with machetes in the field, but Hamp says they 
+          wouldn't be cutting tobacco in November, only 
+          stripping it in the barn.
+        </p>
+        
+      </body>
+      
+    </NOTE>
+    
+    
+  </PERSON>
+  
+  
+  <PERSON  ID="p1033" SEX="M">
+    
+    <REFERENCE  SOURCE="s43"/>
+    
+    <FATHER  PERSON="p37"/>
+    
+    <MOTHER  PERSON="p1099"/>
+    
+    <NAME>
+      
+      <GIVEN>
+        Thomas Corwin
+      </GIVEN>
+      
+      <SURNAME>
+        Anderson
+      </SURNAME>
+      
+    </NAME>
+    
+    <BIRTH>
+      
+      <DATE>
+        16 Jan 1898
+      </DATE>
+      
+    </BIRTH>
+    
+    <DEATH>
+      
+      <PLACE>
+        Probably Australia
+      </PLACE>
+      
+    </DEATH>
+    
+    <NOTE>
+      
+      <body>
+        <p>
+          
+          Corwin fought with his father and then left home. 
+          His last letter was from Australia.
+        </p>
+      </body>
+      
+    </NOTE>
+    
+  </PERSON>
+  
+  
+  <PERSON  ID="p1034" SEX="M">
+    
+    <REFERENCE  SOURCE="s43"/>
+    
+    <FATHER  PERSON="p37"/>
+    
+    <MOTHER  PERSON="p1099"/>
+    
+    <NAME>
+      
+      <GIVEN>
+        Rodger French
+      </GIVEN>
+      
+      <SURNAME>
+        Anderson
+      </SURNAME>
+      
+    </NAME>
+    
+    <BIRTH>
+      
+      <DATE>
+        26 Nov 1899
+      </DATE>
+      
+    </BIRTH>
+    
+    <DEATH>
+      
+      <PLACE>
+        Birmingham, AL
+      </PLACE>
+      
+    </DEATH>
+    
+    <NOTE>
+      
+      <body>
+        <p>
+          
+          Killed when the car he was driving hit a pig in the 
+          road; Despite the many suicides in the family, this is
+          the only known sowicide.
+        </p>
+      </body>
+      
+    </NOTE>
+    
+  </PERSON>
+  
+  
+  <PERSON  ID="p1035" SEX="M">
+    
+    <NAME>
+      
+      <GIVEN>
+        Thomas Corwin
+      </GIVEN>
+      
+      <SURNAME>
+        Anderson
+      </SURNAME>
+      
+    </NAME>
+    
+    <BIRTH>
+      
+      <DATE>
+        24 Aug 1845
+      </DATE>
+      
+    </BIRTH>
+    
+    <DEATH>
+      
+      <PLACE>
+        Mt. Sterling, KY
+      </PLACE>
+      
+      <DATE>
+        18 Sep 1889
+      </DATE>
+      
+    </DEATH>
+    
+    <NOTE>
+      
+      <body>
+        
+        <p>
+          Yale 1869 (did not graduate)
+        </p>
+        
+        <p>
+          Breeder of short horn cattle
+        </p>
+        
+        <p>
+          He was named after an Ohio senator. The name Corwin 
+          is from the Latin 
+          <i>
+            corvinus
+          </i>
+          which means 
+          <i>
+            raven
+          </i>
+          and is akin to 
+          <i>
+            corbin
+          </i>
+          /
+          <i>
+            corbet
+          </i>
+          . 
+          In old French it was 
+          <i>
+            cord
+          </i>
+          and in Middle English 
+          <i>
+            Corse
+          </i>
+          which meant 
+          <i>
+            raven
+          </i>
+          or 
+          <i>
+            cow
+          </i>
+          .
+        </p>
+        
+        <p>
+          Attended Annapolis for one year, possibly to 
+          avoid service in the Civil War.
+        </p>
+        
+        <p>
+          He farmed the old Mitchell farm
+          and became known as a leading short horn breeder. 
+          He suffered from asthma and wanted to move to 
+          Colorado in 1876 to avoid the Kentucky weather, but 
+          he didn't.
+        </p>
+        
+      </body>
+      
+    </NOTE>
+    
+  </PERSON>
+  
+  
+  <PERSON  ID="p1098" SEX="F">
+    
+    <REFERENCE  SOURCE="s29"/>
+    
+    <NAME>
+      
+      <GIVEN>
+        LeAnah (Lee Anna, Annie) DeMint
+      </GIVEN>
+      
+      <SURNAME>
+        English
+      </SURNAME>
+      
+    </NAME>
+    
+    <BIRTH>
+      
+      <PLACE>
+        Louisville, KY
+      </PLACE>
+      
+      <DATE>
+        1 Mar 1843
+      </DATE>
+      
+    </BIRTH>
+    
+    <DEATH>
+      
+      <REFERENCE  SOURCE="s16"/>
+      
+      <PLACE>
+        acute Bright's disease, 504 E. Broadway
+      </PLACE>
+      
+      <DATE>
+        31 Oct 1898
+      </DATE>
+      
+    </DEATH>
+    
+    <NOTE>
+      
+      <body>
+        
+        <p>
+          Writer (pseudonymously) for Louisville Herald
+        </p>
+        
+        <p>
+          Ann or Annie was from Louisville. She wrote under 
+          an assumed name for the Louisville Herald.
+        </p>
+        
+      </body>
+      
+    </NOTE>
+    
+  </PERSON>
+  
+  
+  <PERSON  ID="p1099" SEX="F">
+    
+    <REFERENCE  SOURCE="s39"/>
+    
+    <FATHER  PERSON="p1100"/>
+    
+    <MOTHER  PERSON="p1101"/>
+    
+    <NAME>
+      
+      <GIVEN>
+        Cora Rucker (Blevins?)
+      </GIVEN>
+      
+      <SURNAME>
+        McDaniel
+      </SURNAME>
+      
+    </NAME>
+    
+    <BIRTH>
+      
+      <DATE>
+        1 Aug 1873
+      </DATE>
+      
+    </BIRTH>
+    
+    <DEATH>
+      
+      <REFERENCE  SOURCE="s41"/>
+      
+      <REFERENCE  SOURCE="s60"/>
+      
+      <PLACE>
+        Sideview, bronchial trouble TB
+      </PLACE>
+      
+      <DATE>
+        21 Jul 1909
+      </DATE>
+      
+    </DEATH>
+    
+    <NOTE>
+      
+      <body>
+        
+        <p>
+          She was engaged to General Hood of the Confederacy, 
+          but she was seeing Mr. Anderson on the side. A servant 
+          was posted to keep Mr. Anderson away. However the girl 
+          fell asleep, and Cora eloped with Mr. Anderson.
+        </p>
+        
+      </body>
+      
+    </NOTE>
+    
+  </PERSON>
+  
+  
+  <PERSON  ID="p1100" SEX="M">
+    
+    <NAME>
+      
+      <GIVEN>
+        Judson
+      </GIVEN>
+      
+      <SURNAME>
+        McDaniel
+      </SURNAME>
+      
+    </NAME>
+    
+    <BIRTH>
+      
+      <DATE>
+        21 Feb 1834
+      </DATE>
+      
+    </BIRTH>
+    
+    <DEATH>
+      
+      <DATE>
+        9 Dec 1905
+      </DATE>
+      
+    </DEATH>
+    
+  </PERSON>
+  
+  
+  <PERSON  ID="p1101" SEX="F">
+    
+    <NAME>
+      
+      <GIVEN>
+        Mary E.
+      </GIVEN>
+      
+      <SURNAME>
+        Blevins
+      </SURNAME>
+      
+    </NAME>
+    
+    <BIRTH>
+      
+      <DATE>
+        1847
+      </DATE>
+      
+    </BIRTH>
+    
+    <DEATH>
+      
+      <DATE>
+        1886
+      </DATE>
+      
+    </DEATH>
+    
+    <BURIAL>
+      
+      <PLACE>
+        Machpelah Cemetery, Mt. Sterling KY
+      </PLACE>
+      
+    </BURIAL>
+    
+  </PERSON>
+  
+  
+  <PERSON  ID="p1102" SEX="M">
+    
+    <REFERENCE  SOURCE="s29"/>
+    
+    <NAME>
+      
+      <GIVEN>
+        John Jay (Robin Adair )
+      </GIVEN>
+      
+      <SURNAME>
+        Anderson
+      </SURNAME>
+      
+    </NAME>
+    
+    <BIRTH>
+      
+      <REFERENCE  SOURCE="s43"/>
+      
+      <PLACE>
+        Sideview
+      </PLACE>
+      
+      <DATE>
+        13 May 1873
+      </DATE>
+      
+    </BIRTH>
+    
+    <DEATH>
+      
+      <DATE>
+        18 Sep 1889	
+      </DATE>
+      
+    </DEATH>
+    
+    <NOTE>
+      <body>
+        <p>
+          
+          Died of flux. Rumored to have been killed by his brother.
+        </p>
+      </body>
+    </NOTE>
+    
+  </PERSON>
+  
+  
+  <FAMILY  ID="f25">
+    
+    <HUSBAND  PERSON="p37"/>
+    
+    <WIFE  PERSON="p1099"/>
+    
+    <CHILD  PERSON="p23"/>
+    
+    <CHILD  PERSON="p36"/>
+    
+    <CHILD  PERSON="p1033"/>
+    
+    <CHILD  PERSON="p1034"/>
+    
+  </FAMILY>
+  
+  
+  <FAMILY  ID="f732">
+    
+    <HUSBAND  PERSON="p1035"/>
+    
+    <WIFE  PERSON="p1098"/>
+    
+    <CHILD  PERSON="p1102"/>
+    
+    <CHILD  PERSON="p37"/>
+    
+  </FAMILY>
+  
+  
+  <FAMILY  ID="f779">
+    
+    <HUSBAND  PERSON="p1102"/>
+    
+  </FAMILY>
+  
+  
+  <SOURCE  ID="s16">
+    newspaper death notice in purse
+  </SOURCE>
+  
+  <SOURCE  ID="s29">
+    English-Demint Anderson Bible
+  </SOURCE>
+  
+  <SOURCE  ID="s39">
+    
+    Judson McDaniel &amp; Mary E. Blevins Bible
+  </SOURCE>
+  
+  <SOURCE  ID="s41">
+    
+    Cora McDaniel obituary, clipping from unknown newspaper
+  </SOURCE>
+  
+  <SOURCE  ID="s43">
+    Anderson Bible
+  </SOURCE>
+  
+  <SOURCE  ID="s44">
+    
+    A Sesquicentenial History of Kentucky
+    Frederik A. Wallis &amp; Hambleon Tapp, 1945, 
+    The Historical Record Association, Hopkinsville, KY
+  </SOURCE>
+  
+  <SOURCE  ID="s60">
+    
+    Interview with Ann Sandusky, May 1996
+  </SOURCE>
+  
+  
+</FAMILY_TREE>
+

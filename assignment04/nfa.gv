@@ -1,0 +1,14 @@
+digraph
+  G { label="NFA of x*(x|y)*";
+ 
+rankdir=LR
+start[shape =none]
+start ->node_1
+node_1 [label="Q1", shape = doublecircle]
+node_1 -> node_1 [label ="x"]
+node_1 -> node_2 [label ="x"]
+node_1 -> node_2 [label ="y"]
+node_2 [label="Q2", shape = doublecircle]
+node_2 -> node_2 [label ="x"]
+node_2 -> node_2 [label ="y"]
+}
